@@ -26,3 +26,6 @@ https://github.com/YameenV/OCR-my-Aadhaar
 Yolov5, Spacy, Streamlite, Tesseract
 https://github.com/YameenV/ocryolome
 
+> Version 3 Latest
+
+
